@@ -40,6 +40,11 @@ INSTALLED_APPS = [
 
     'apps.producto',
     'apps.categorias',
+    'apps.banco',
+    'apps.credito', 
+    'apps.debito',   
+    
+
 
 ]
 
